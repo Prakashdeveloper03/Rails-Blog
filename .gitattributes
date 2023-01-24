@@ -9,4 +9,5 @@ vendor/* linguist-vendored
 # Mark html, js, css files as non-detectable
 *.html linguist-detectable=false
 *.js linguist-detectable=false
+*.erb linguist-detectable=false
 *.css linguist-detectable=false
